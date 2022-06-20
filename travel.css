@@ -1,0 +1,93 @@
+body
+{
+   margin: 0 auto;
+   padding: 0;
+   width: 1324px;
+}
+#container
+{
+    background-color: rgb(192, 185, 185);  
+    width: 100%;
+}
+header
+{   
+    text-align: center;
+}
+.ziemia
+{
+    float: left;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 230px;
+    top: 20px;
+}
+h1
+{
+    background-color: green;
+    color: white;
+    padding: 25px;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width:900px ;
+    margin-block-start: 0;
+}
+h2
+{
+    color: green;
+}
+h3
+{
+    font-size: 40px;
+    color: green;
+    position: relative;
+    left: 40px;
+}
+main
+{
+    margin-left: 150px;
+    width:965px ;
+}
+main img
+{
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    
+}
+img
+{
+    width: 300px ;
+    height: 180px ;
+}
+li
+{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding: 5px;   
+}
+ul li 
+{
+    clear: both;
+    list-style: none;
+}
+ul div
+{
+    margin-top: -10px;
+}
+ul div p
+{
+    font-size: 30px;
+    position: relative;
+    left: 10px;
+}
+footer
+{
+    background-color: green;
+    color: white;
+    padding: 25px;
+    font-size: 40px;
+text-align: right;
+}
